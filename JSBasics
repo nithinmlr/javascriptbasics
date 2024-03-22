@@ -1,3 +1,27 @@
 Javascript basics
 To setup comment in JS use the below
 For single line comment
+//This is single line comment
+For multi line comment
+/* this is a multi
+line comment
+*/
+Javascript Data Types
+There are eight different data types in JS.
+1. undefined
+2.null
+3.boolean
+4.string
+5.symbol
+6.bigint
+7.number
+8.object
+Variables ??
+     Variables are containers to store any of the above datatypes.As a programmer you can assign a name to the value and it 
+can be reused ,updated or tracked.
+Creating a variable
+var myName;
+var a; //declaring the variable a
+a =7;  //assigning the value 7 to the variable a
+var b = 5;//assign number 5 to the variable b
+
