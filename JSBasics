@@ -27,6 +27,9 @@ var b = 5;//assign number 5 to the variable b
 
 //In JS using the escape Charector(\) you can skip the quotes not to consider part of the string
 var myVar = " John once said,"\I love football\".";
+//Arays are mutable
+var myArray = [25,30,"myname"];
+var myArrayElement = myArray[0];
 
 
 
