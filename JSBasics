@@ -25,3 +25,8 @@ var a; //declaring the variable a
 a =7;  //assigning the value 7 to the variable a
 var b = 5;//assign number 5 to the variable b
 
+//In JS using the escape Charector(\) you can skip the quotes not to consider part of the string
+var myVar = " John once said,"\I love football\".";
+
+
+
