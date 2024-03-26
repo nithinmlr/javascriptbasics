@@ -47,6 +47,14 @@ function myFunctionExample(){
      console.log("This is test function");
 }
 myFunctionExample();
+//what are function arguments,Write a function with examples
+function myFunctionWithArgs(arg1,arg2){
+   var sum = arg1 +arg2;
+   console.log(sum);
+}
+
+myFunctionWithArgs(1,3);
+
 
 
 
