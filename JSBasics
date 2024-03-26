@@ -36,7 +36,15 @@ var myArrayElement = myArray[0];
 
 //how to push the elemenets into the array.Using .push method
 
-//how .pop() works and from where it will remove the element value.
+//how .pop() works and from where it will remove the element value.Will it change the orginal array?
+
+//What does shift does and examples.
+
+//how does .unshift() using to add elements to the array
+
+//how to create a function
+
+
 
 
 
