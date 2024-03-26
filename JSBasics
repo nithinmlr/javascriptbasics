@@ -30,6 +30,13 @@ var myVar = " John once said,"\I love football\".";
 //Arays are mutable
 var myArray = [25,30,"myname"];
 var myArrayElement = myArray[0];
+//what is nexted array
+
+//how to access elements from a nested array
+
+//how to push the elemenets into the array.Using .push method
+
+//how .pop() works and from where it will remove the element value.
 
 
 
