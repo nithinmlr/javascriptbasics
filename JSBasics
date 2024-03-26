@@ -42,7 +42,12 @@ var myArrayElement = myArray[0];
 
 //how does .unshift() using to add elements to the array
 
-//how to create a function
+//how to create a function and an example
+function myFunctionExample(){
+     console.log("This is test function");
+}
+myFunctionExample();
+
 
 
 
