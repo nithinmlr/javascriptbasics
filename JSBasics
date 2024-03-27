@@ -54,6 +54,8 @@ function myFunctionWithArgs(arg1,arg2){
 }
 
 myFunctionWithArgs(1,3);
+//Need to practice
+//https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/record-collection
 
 
 
