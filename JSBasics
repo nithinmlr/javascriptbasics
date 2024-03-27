@@ -56,8 +56,16 @@ function myFunctionWithArgs(arg1,arg2){
 myFunctionWithArgs(1,3);
 //Need to practice
 //https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/record-collection
-
-
+//loops : for (a,b,c),,a - is the initialization, b is the condition , c is the final experssion
+let myArray = [];
+for (let i =0;i < 5; i++){
+  myArray.push(i);
+}
+//output myArray will have [0,1,2,3,4]
+//initialization is to initialize the loop variable
+//condition will evaluate the value to be true, if it turns to be false the loop will never execute
+// next is normally to incriment or decrement the value. this would be done at the next execution before the condition evaluates.
+//the loop will run as long the condition evaluates to true
 
 
 
